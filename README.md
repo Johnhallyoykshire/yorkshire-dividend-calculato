@@ -1,1 +1,1 @@
-# yorkshire-dividend-calculato
+# yorkshire-dividend-calculator
